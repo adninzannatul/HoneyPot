@@ -26,4 +26,7 @@ gcloud compute firewall-rules create hpfeeds \
     --target-tags="mhn-admin"
 
          
- ![alt-text]()
+ ![alt-text](Firewall_rules.png)
+ 
+ 2. This is the sensor page from mhn server
+ ![alt-text](MHN_Server.png)
